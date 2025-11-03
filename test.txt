@@ -1,2 +1,6 @@
 Hello from local repo
+<<<<<<< HEAD
 Conflict test
+=======
+Update from clone
+>>>>>>> 5696bb009e513bd4252d456c6e8c5b59752eb20a
